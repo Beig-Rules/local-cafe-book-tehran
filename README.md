@@ -1,2 +1,5 @@
-# local-cafe-book-tehran
-کافه کتاب تهران — کسب‌وکار محلی
+# کافه کتاب تهران
+
+https://beig-rules.github.io/local-cafe-book-tehran/
+
+© Beig-Rules
